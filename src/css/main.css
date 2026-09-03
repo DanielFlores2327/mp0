@@ -1,1 +1,13 @@
 /* Your CSS here. */
+.blackbox{
+    text-align: center;
+    background-color: #4d0026;
+    color: white;
+}
+.blackbox a{
+    color: white;
+}
+img {
+    height: 150px;
+    width: 150px;
+}
